@@ -1,6 +1,11 @@
-# crypto-forecast
-Inflation predictor using MultilayerPerceptron\
-[GreedIsGood](http://inflasi.herokuapp.com/)
+# Inflation Forecast 
 
-# Deploy model
-pickled model from sklearn
+Inflation predictor using MLP, deploy on flask.
+
+# How to use
+1. Fill in the form in the application, then
+2. Hit "Predict"
+
+## Dataset
+
+BPS (Badan Pusat Statistik)
